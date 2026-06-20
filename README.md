@@ -1,2 +1,5 @@
-# Better-Jarvis
-A real Jarvis, from Iron Man, It can use your files on your PC, hear you and more!!
+DELETED, GO TO THE NEW REPO: https://github.com/1ppn1/jarvis-voice-assistant
+DELETED, GO TO THE NEW REPO: https://github.com/1ppn1/jarvis-voice-assistant
+DELETED, GO TO THE NEW REPO: https://github.com/1ppn1/jarvis-voice-assistant
+DELETED, GO TO THE NEW REPO: https://github.com/1ppn1/jarvis-voice-assistant
+DELETED, GO TO THE NEW REPO: https://github.com/1ppn1/jarvis-voice-assistant
